@@ -10,7 +10,7 @@ The project report contains a detailed description of the approach used, the top
 Initially a simple design was implemented that satisfied the requiremnets of the problem statement after considering some justifiable assumptions. After perfecting the simple design, another complex design with additional functionalities was implemented that aimed to dispense the asssumptions taken into consideration during the simple design. 
 
 ## File Description:
-There are two _logisim_ files uploaded.  
+There are two _logisim_ files uploaded (the ones with the _.circ_ extension).  
 One is the simple implementation and the other is the one with additional functionalities.  
 Another _pdf_ file uploaded contains the Output Summary i.e. the screenshots of the _logisim_ simulation.  
 The slides used by me while presenting the project to my professor have also been uploaded.
