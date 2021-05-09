@@ -7,7 +7,7 @@ A door counter was simulated in the software _logisim_.
 >It should automatically close the doors when the pre-set number of people is reached. 
 
 The project report contains a detailed description of the approach used, the top level block diagram, components used, pin-out diagrams.  
-Initially a simple design was implemented that satisfied the requiremnets of the problem statement after considering some justifiable assumptions. After perfecting the simple design, another complex design with additional functionalities was implemented that aimed to dispense the asssumptions taken into consideration during the simple design. 
+Initially a simple design was implemented that satisfied the requiremnets of the problem statement after considering some justifiable assumptions. After perfecting the simple design, another complex design with additional functionalities was implemented that aimed to dispense the assumptions taken into consideration during the simple design. 
 
 ## File Description:
 There are two _logisim_ files uploaded (the ones with the _.circ_ extension).  
